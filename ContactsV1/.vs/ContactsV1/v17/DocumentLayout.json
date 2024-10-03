@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PARLUOL03\\source\\repos\\ContactsV1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB795A03-22F1-4C80-BE70-5372DD6FAF0E}|ContactsV1\\ContactsV1.csproj|c:\\users\\parluol03\\source\\repos\\contactsv1\\contactsv1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB795A03-22F1-4C80-BE70-5372DD6FAF0E}|ContactsV1\\ContactsV1.csproj|solutionrelative:contactsv1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 498,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PARLUOL03\\source\\repos\\ContactsV1\\ContactsV1\\Program.cs",
+              "RelativeDocumentMoniker": "ContactsV1\\Program.cs",
+              "ToolTip": "C:\\Users\\PARLUOL03\\source\\repos\\ContactsV1\\ContactsV1\\Program.cs*",
+              "RelativeToolTip": "ContactsV1\\Program.cs*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:39:39.434Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
